@@ -4,7 +4,7 @@ Fortran exercises for the course of Computational Methods A at UnB.
 These exercises were submitted as a requirement for the course of Computational Methods A at UnB during the first semester of 2019. Brief description of each one below:
 
 03-derivada.f90 - Calculates derivatives via the first order method.  
-04-integral(4).f90 - Calculates integrals via the Trapezoid rule, Simpson rule and Gauss rule. Also compares the three methods.  
+04-integral(4).f90 - Calculates integrals via the trapezoidal rule, Simpson's rule and Gaussian quadrature rule. Also compares the three methods.  
 05-newton-raphson(4).f90 - Evaluates roots via the Newton-Raphson method.  
 05-secante(4).f90 - Evaluates roots via the secant method.  
 06-bessel_teste(3).f90 - Computes Bessel functions of first and second kind.  
