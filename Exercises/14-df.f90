@@ -43,7 +43,7 @@ EXIT
 END IF
 iteracao=iteracao+1
 END DO
-
+!alterar aqui
 
 WRITE(*,*)'N de iteracoes:', iteracao
 WRITE(*,*)" "
